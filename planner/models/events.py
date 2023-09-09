@@ -37,5 +37,4 @@ class EventUpdate(SQLModel):
                 "tags": ["python", "fastapi", "book", "launch"],
                 "location": "Google Meet"
             }
-        }
-   
+        } 
