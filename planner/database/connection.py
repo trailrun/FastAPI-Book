@@ -12,4 +12,3 @@ def conn():
 def get_session():
     with Session(engine_url) as session:
         yield session
-    
